@@ -1,0 +1,109 @@
+[36m[INFO] 23:59:30 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 00:04:04 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 10:31:39 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 10:31:57 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 10:32:06 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 16:13:33 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 16:14:11 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 16:15:00 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 16:22:38 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 16:24:12 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 16:26:59 Database connected: 127.0.0.1, dating-app[0m
+[31m[ERROR] 16:27:12 Error in login: Illegal arguments: string, undefined[0m
+[36m[INFO] 16:27:53 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 16:28:35 Database connected: 127.0.0.1, dating-app[0m
+[31m[ERROR] 16:28:37 Error in login: User is not defined[0m
+[31m[ERROR] 16:28:38 Error in login: User is not defined[0m
+[31m[ERROR] 16:28:38 Error in login: User is not defined[0m
+[31m[ERROR] 16:28:38 Error in login: User is not defined[0m
+[31m[ERROR] 16:28:38 Error in login: User is not defined[0m
+[31m[ERROR] 16:28:53 Error in login: User is not defined[0m
+[31m[ERROR] 16:29:09 Error in signup: bcrypt is not defined[0m
+[36m[INFO] 16:30:08 Database connected: 127.0.0.1, dating-app[0m
+[31m[ERROR] 16:30:10 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:30:12 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:30:13 Error in signup: bcrypt is not defined[0m
+[36m[INFO] 16:31:45 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 16:32:16 Database connected: 127.0.0.1, dating-app[0m
+[31m[ERROR] 16:32:18 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:32:19 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:32:19 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:32:20 Error in signup: bcrypt is not defined[0m
+[36m[INFO] 16:34:10 Database connected: 127.0.0.1, dating-app[0m
+[31m[ERROR] 16:34:15 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:34:16 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:34:16 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:34:16 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:34:16 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:34:17 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:34:17 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:34:17 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:34:17 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:34:18 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:34:18 Error in signup: bcrypt is not defined[0m
+[36m[INFO] 16:35:53 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 16:36:22 Database connected: 127.0.0.1, dating-app[0m
+[31m[ERROR] 16:36:27 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:36:28 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:36:28 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:36:28 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:36:28 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:36:29 Error in signup: bcrypt is not defined[0m
+[36m[INFO] 16:39:32 Database connected: 127.0.0.1, dating-app[0m
+[31m[ERROR] 16:39:36 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:39:36 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:39:36 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:39:37 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:39:37 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:39:37 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:39:37 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:39:37 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:39:37 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:39:38 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:39:38 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:39:38 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:39:38 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:39:38 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:39:38 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:39:38 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:39:39 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:39:39 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:39:39 Error in signup: bcrypt is not defined[0m
+[36m[INFO] 16:41:21 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 16:43:07 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 16:43:59 Database connected: 127.0.0.1, dating-app[0m
+[31m[ERROR] 16:44:06 Error in signup: bcrypt is not defined[0m
+[31m[ERROR] 16:44:08 Error in signup: bcrypt is not defined[0m
+[36m[INFO] 16:45:09 Database connected: 127.0.0.1, dating-app[0m
+[31m[ERROR] 16:45:25 Error in login: Illegal arguments: string, undefined[0m
+[31m[ERROR] 16:45:26 Error in login: Illegal arguments: string, undefined[0m
+[36m[INFO] 16:46:58 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 16:47:39 Database connected: 127.0.0.1, dating-app[0m
+[31m[ERROR] 16:47:44 Error in login: Illegal arguments: string, undefined[0m
+[31m[ERROR] 16:47:45 Error in login: Illegal arguments: string, undefined[0m
+[31m[ERROR] 16:47:45 Error in login: Illegal arguments: string, undefined[0m
+[31m[ERROR] 16:47:45 Error in login: Illegal arguments: string, undefined[0m
+[36m[INFO] 16:51:01 Database connected: 127.0.0.1, dating-app[0m
+[31m[ERROR] 16:51:04 Error in login: Illegal arguments: string, undefined[0m
+[36m[INFO] 17:03:02 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 17:04:15 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 02:02:20 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 02:02:49 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 02:03:03 Database connected: 127.0.0.1, dating-app[0m
+[31m[ERROR] 02:03:08 Error in login: Illegal arguments: string, undefined[0m
+[36m[INFO] 02:05:38 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 02:07:33 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 02:09:04 Database connected: 127.0.0.1, dating-app[0m
+[31m[ERROR] 02:09:13 Error in login: Illegal arguments: string, undefined[0m
+[36m[INFO] 02:11:43 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 08:44:38 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 11:13:02 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 11:13:43 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 21:13:39 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 21:21:18 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 21:21:50 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 21:22:37 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 21:23:53 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 22:48:55 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 22:49:41 Database connected: 127.0.0.1, dating-app[0m
+[36m[INFO] 10:21:47 Database connected: 127.0.0.1, dating-app[0m
